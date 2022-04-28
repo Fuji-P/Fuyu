@@ -56,6 +56,7 @@
 			this.pictureBox3.Size = new System.Drawing.Size(251, 464);
 			this.pictureBox3.TabIndex = 2;
 			this.pictureBox3.TabStop = false;
+			this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
 			// 
 			// label1
 			// 
@@ -103,7 +104,6 @@
 
 		private PictureBox pictureBox1;
 		private PictureBox pictureBox3;
-		private TextBox textBox1;
 		private Label label1;
 		private Label label2;
 	}

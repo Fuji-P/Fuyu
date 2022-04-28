@@ -1,9 +1,14 @@
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\Fuyu.exe
+C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\fuyuko_04.wav
+C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\fuyuko_05.wav
+C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\fuyuko_06.wav
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\Fuyu.deps.json
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\Fuyu.runtimeconfig.json
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\Fuyu.dll
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\bin\Debug\net6.0-windows\Fuyu.pdb
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\obj\Debug\net6.0-windows\Fuyu.csproj.AssemblyReference.cache
+C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\obj\Debug\net6.0-windows\Interop.WMPLib.dll
+C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\obj\Debug\net6.0-windows\Fuyu.csproj.ResolveComReference.cache
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\obj\Debug\net6.0-windows\Fuyu.Form1.resources
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\obj\Debug\net6.0-windows\Fuyu.Properties.Resources.resources
 C:\Users\S-SAOTOME\source\repos\Fuyu\Fuyu\obj\Debug\net6.0-windows\Fuyu.csproj.GenerateResource.cache
